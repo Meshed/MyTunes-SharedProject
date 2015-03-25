@@ -1,0 +1,7 @@
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/obj/iPhoneSimulator/Debug/Default-568h@2x.png
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/bin/iPhoneSimulator/Debug/MyTunesiOS.exe.mdb
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/bin/iPhoneSimulator/Debug/MyTunesiOS.exe
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/obj/iPhoneSimulator/Debug/MyTunesiOS.exe
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/obj/iPhoneSimulator/Debug/MyTunesiOS.exe.mdb
+/Users/markbrown/workspace/XamarinUniversity/MyTunes/MyTunes.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
